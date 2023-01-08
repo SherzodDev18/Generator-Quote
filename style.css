@@ -1,0 +1,40 @@
+.container{
+    background: #f8ececf2;
+    width: 44%;
+    height: 292px;
+    border-radius: 17px;
+    margin-left: 25%;
+}
+
+.title{
+    text-align: center;
+    font-family: monospace;
+    font-size: 39px;
+}
+
+hr{
+    width: 89%;
+}
+
+#quoteBtn{
+    height: 37px;
+    border-radius: 38px;
+    border: 0;
+    cursor: pointer;
+    margin-left: 31px;
+    background: #2b78fce8;
+    color: aliceblue;
+    font-family: monospace;
+}
+
+body{
+    background: #2b78fce8;
+}
+
+.text{
+    margin-left: 29px
+}
+
+.author{
+    margin-left: 29px
+}
